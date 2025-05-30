@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, eu sou o Agilson!</h1>
-<h3 align="center">Desenvolvedor Focado em Python, Java e C#</h3>
+<h3 align="center">Desenvolvedor Focado em Python, Java, C#, JavaScript e Front-end</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agilsonaraujoo&theme=darkmode" alt="Agilson's GitHub Profile Trophies" />
 </p>
 
 <p align="center">
-  Bem-vindo ao meu repositório de projetos! Aqui você encontrará uma coleção do meu trabalho com <strong>Python</strong>, <strong>Java</strong> e <strong>C#</strong>, explorando desde o desenvolvimento backend até soluções completas. Sinta-se à vontade para explorar, aprender e contribuir com ideias! 😊
+  Bem-vindo ao meu repositório de projetos! Aqui você encontrará uma coleção do meu trabalho com <strong>Python</strong>, <strong>Java</strong>, <strong>C#</strong>, <strong>JavaScript</strong> e <strong>React</strong>, explorando desde o desenvolvimento backend robusto até interfaces front-end dinâmicas e soluções completas de banco de dados. Sinta-se à vontade para explorar, aprender e contribuir com ideias! 😊
 </p>
 
 ---
@@ -39,8 +39,14 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
@@ -48,28 +54,22 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-### Estatísticas do GitHub:
+### Minhas Estatísticas no GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agilsonaraujoo&show_icons=true&locale=en&layout=compact&theme=dark" alt="Agilson's Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=agilsonaraujoo&show_icons=true&locale=en&theme=dark" alt="Agilson's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agilsonaraujoo&show_icons=true&locale=en&layout=compact&theme=dark&card_width=320" alt="Agilson - Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agilsonaraujoo&show_icons=true&locale=en&theme=dark&card_width=420" alt="Agilson - Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agilsonaraujoo&theme=dark" alt="Agilson - GitHub Streak" />
 </p>
 
 ---
-
-### O que mudou e por que:
-
-* **Título e Subtítulo**: Mudei para "Desenvolvedor Focado em Python, Java e C#" para deixar claro o seu foco logo de cara, aumentando o profissionalismo.
-* **Mensagem de Boas-Vindas**: A descrição está um pouco mais elaborada, explicando o propósito do repositório e o tipo de trabalho que você faz ("desde o desenvolvimento backend até soluções completas"), tornando-a mais convidativa e informativa.
-* **Centralização**: Usei `<p align="center">` para centralizar a maioria dos elementos visuais, como o troféu e as estatísticas, criando uma estética mais equilibrada e agradável.
-* **Troféu do GitHub**: Mantive o troféu, mas adicionei `&theme=darkmode` para garantir que ele se adapte melhor a temas escuros, que são comuns no GitHub.
-* **Ícones de Habilidades**: Os ícones já são ótimos! Apenas organizei-os de forma mais clara e adicionei `rel="noreferrer"` por boas práticas de segurança.
-* **Estatísticas do GitHub**: Adicionei mais um gráfico de estatísticas (`github-readme-stats.vercel.app/api?username=agilsonaraujoo`) para mostrar não só as linguagens mais usadas, mas também outras métricas importantes (estrelas, commits, etc.), e apliquei `&theme=dark` para consistência visual.
-* **Linhas Horizontais (`---`)**: Adicionei linhas horizontais para criar divisões visuais claras entre as seções, o que melhora a legibilidade e a organização do README.
-* **Negrito**: Usei **negrito** em palavras-chave importantes para destacá-las e guiar o olhar do leitor.
-
-Este novo layout deve deixar seu perfil mais organizado, profissional e com um impacto visual maior! O que você achou das mudanças?
